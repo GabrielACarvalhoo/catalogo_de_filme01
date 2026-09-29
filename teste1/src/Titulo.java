@@ -1,4 +1,4 @@
-public class Titulo {
+public abstract class Titulo {
     private String nome;
     private int anoLancamento;
     private boolean incluidoPlano;
